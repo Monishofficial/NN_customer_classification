@@ -79,6 +79,7 @@ def train_model(model, train_loader,criterion,optimizer,epochs):
 ### Confusion Matrix
 
 <img width="322" height="173" alt="image" src="https://github.com/user-attachments/assets/e232888c-f275-46b5-a2f1-119469af9701" />
+
 <img width="685" height="561" alt="image" src="https://github.com/user-attachments/assets/418abed8-1fce-4d4b-b58e-e9cf25e4b7bf" />
 
 
